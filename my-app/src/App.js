@@ -6,7 +6,7 @@ import News from "./pages/news/News";
 function App() {
   return (
     <div>
-        <h1>DZ-3</h1>
+        <h1>DZ-3_Shakeev_Erbol_12-01</h1>
         <News />
     </div>
   );
